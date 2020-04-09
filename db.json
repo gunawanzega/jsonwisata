@@ -1,0 +1,171 @@
+{
+	"data":[
+		{
+			"nama":"Kota Tua",
+			"kategori":"Bangunan Sejarah",
+			"alamat":"Mangga Besar, Kec. Taman Sari, Kota Jakarta Barat",
+			"deskripsi":"Merupakan Bangunan Tua peninggalan Belanda.",
+			"maps":"-6.134816, 106.813651",
+			"gambar":"https://akcdn.detik.net.id/community/media/visual/2019/04/17/d3c4247e-e04c-4a3d-b0e2-8ef3f28cfb55_169.jpeg?w=780&q=90"
+		}, 
+		
+		{
+			"nama":"Monas",
+			"kategori":"Bangunan Sejarah",
+			"alamat":"Gambir Kec. Gambir Kota Jakarta Pusat",
+			"deskripsi":"Merupakan icon dari ibu kota indonesia",
+			"maps":"-6.175040, 106.827153",
+			"gambar":"https://mmc.tirto.id/image/otf/700x0/2018/07/28/ilustrasi-monas-2_ratio-16x9.jpg"
+		}, 
+
+		{
+			"nama":"Taman Impian Ancol",
+			"kategori":"Hiburan Keluarga",			
+			"alamat":"Kec. Pademangan Kota Jakarta Utara",
+			"deskripsi":"Wisata untuk liburan bersama keluarga",
+			"maps":"-6.124072, 106.844767",
+			"gambar":"https://asset.kompas.com/crops/ClxctWi5u6XYEMHtJ13wfRPX5UQ=/69x0:1149x720/750x500/data/photo/2019/04/17/2507969107.jpeg"
+		},
+
+		{
+			"nama":"Museum MACAN",
+			"kategori":"Hiburan",			
+			"alamat":"Wisma Akr, Jl. Panjang No.5, RT.11/RW.10, Kebon Jeruk, Jakarta Barat",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.190959, 106.767963",
+			"gambar":"https://cdn.akurat.co/images/uploads/images/akurat_20180510023723_S69A16.jpg"
+		},
+
+		{
+			"nama":"Taman Mini Indonesia Indah",
+			"kategori":"Hiburan",			
+			"alamat":"Ceger, Cipayung, Jakarta Timur, DKI Jakarta",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.302137, 106.895252",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Taman-Mini-Indonesia-Indah.jpg"
+		},
+
+		{
+			"nama":"Pulau Kelapa",
+			"kategori":"Hiburan",			
+			"alamat":"Kepulauan Seribu, DKI Jakarta",
+			"deskripsi":"Hiburan ",
+			"maps":"-5.654422, 106.567903",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Pulau-Kelapa.jpg"
+		},
+
+		{
+			"nama":"Planetarium Jakarta",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Cikini Raya No.73, Cikini, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.189837, 106.838800",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Planetarium-Jakarta-1.jpg"
+		},
+
+		{
+			"nama":"Taman Wisata Alam Mangrove, Angke Kapuk",
+			"kategori":"Hiburan",			
+			"alamat":"Jalan Garden House, Kamal Muara, Penjaringan, Kota Jakarta Utara, DKI Jakarta",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.104971, 106.735541",
+			"gambar":"https://foresteract.com/wp-content/uploads/2018/09/Suasana-Tentram-di-Jakarta-ada-di-TWA-Angke-Kapuk.jpg"
+		},
+
+		{
+			"nama":"Waterboom PIK",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Pantai Indah Barat, Kamal Muara, Penjaringan, Kota Jakarta Utara, DKI Jakarta",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.113569, 106.747783",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Waterboom-Jakarta.png"
+		},
+
+		{
+			"nama":"Waterboom PIK",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Pantai Indah Barat, Kamal Muara, Penjaringan, Kota Jakarta Utara, DKI Jakarta",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.113569, 106.747783",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Waterboom-Jakarta.png"
+		},
+
+		{
+			"nama":"Kidzania",
+			"kategori":"Hiburan",			
+			"alamat":"Pacific Place L6 – 601 Sudirman Central Business, Jalan Jendral Sudirman No.52-53, Senayan, Kebayoran Baru Kota Jakarta Selatan, DKI Jakarta",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.224764, 106.809650",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Kidzania.jpg"
+		},
+
+		{
+			"nama":"Museum Perangko",
+			"kategori":"Hiburan",			
+			"alamat":"Taman Mini Indonesia Indah, Jalan Taman Mini Indonesia Indah, Cipayung, RW.2, Ceger, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13820",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.303832, 106.901772",
+			"gambar":"https://4.bp.blogspot.com/-cS_Gvk6d-3s/VZPzSqK6Q5I/AAAAAAAABw0/9gNF2ef6riA/s400/IMG_1974.JPG"
+		},
+
+		{
+			"nama":"Alive Museum Jakarta",
+			"kategori":"Hiburan",			
+			"alamat":"Ancol Beach City Mall, 3rd Floor Jalan Ancol Beach City Pademangan, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.117405, 106.857790",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2018/11/Alive-Star-Museum-Spot-2.jpg"
+		},
+
+		{
+			"nama":"Pantai Ancol",
+			"kategori":"Hiburan",			
+			"alamat":"Daerah Khusus Ibukota Jakarta",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.119145, 106.850192",
+			"gambar":"https://travelspromo.com/wp-content/uploads/2019/08/Kawasan-wisata-Pantai-Ancol-Jakarta-Utara-Asmar-SIAGIAN-e1566443823510-681x425.jpg"
+		},
+
+		{
+			"nama":"DUFAN",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Lodan Timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.124992, 106.833527",
+			"gambar":"https://photo.kontan.co.id/photo/2019/04/25/1760223131p.jpg"
+		},
+
+		{
+			"nama":"Kebun Binatang Ragunan",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Harsono RM No.1, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.310994, 106.819660",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Taman-Refleksi.jpg"
+		},
+
+		{
+			"nama":"Sea World Ancol",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Lodan timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.125757, 106.842843",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/04/Sea-World-Ancol.jpg"
+		},
+
+		{
+			"nama":"Trans Snow World",
+			"kategori":"Hiburan",			
+			"alamat":"Jl. Ir. H. Juanda No.180, RT.003/RW.011, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113",
+			"deskripsi":"Hiburan ",
+			"maps":"-6.249538, 107.016596",
+			"gambar":"https://www.nativeindonesia.com/wp-content/uploads/2019/03/bermain-salju-di-trans-snow-world-bekasi.jpeg"
+		},
+
+
+
+
+	]
+
+
+}
